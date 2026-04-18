@@ -40,9 +40,6 @@ This project focuses on analyzing complex social network structures using graph 
 - Discovery of tightly connected communities
 - Understanding network density and structure
 
-## Sample Output
-(Add screenshots of graphs, network plots here)
-
 ## Dataset
 The dataset used in this project is available on Kaggle:
 (Link your Kaggle dataset here)
