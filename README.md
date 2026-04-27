@@ -66,7 +66,7 @@ The dataset used in this project is available on Kaggle:
 - Deploy as an interactive web app
 
 ## Author
-Korri Chandrasekhar Rao 
+Korri Chandrasekhar Rao and Niladribihari Mohanta and hrishikesh
 
 ## License
 This project is open-source and available under the MIT License.
